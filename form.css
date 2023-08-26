@@ -1,0 +1,38 @@
+.lblError{
+    display: none;
+}
+.lblErrorShow{
+    display: block;
+    color: darkred;
+    
+}
+.input{
+    border: 3px solid #000;
+}
+.lblErrorAllValidation{
+    display: none;
+}
+.lblErrorAllValidationshow{
+  
+    display: block;
+    color: darkred;
+    
+}
+
+/* .PassError{
+    display: none;
+}
+.PassErrorShow{
+    display: block;
+    color: darkred;
+} */
+.btn
+{
+    width: 50px;
+    height: 20px;
+    box-shadow: inset 0.1 0.5;
+    background-color: blanchedalmond;
+    border-radius: 20%;
+    border: 2px solid #000;
+    color: #000;
+}
