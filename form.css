@@ -1,3 +1,17 @@
+form{
+    width: 500px;
+    height: 250px;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 10%;
+    margin-left: 30%;
+    margin-top: 8%;
+    background-color: grey;
+    border: 1px solid;
+  
+
+}
 .lblError{
     display: none;
 }
@@ -19,13 +33,7 @@
     
 }
 
-/* .PassError{
-    display: none;
-}
-.PassErrorShow{
-    display: block;
-    color: darkred;
-} */
+
 .btn
 {
     width: 50px;
